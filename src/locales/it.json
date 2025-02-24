@@ -1,0 +1,9 @@
+{
+  "username": "Nome Utente",
+  "emailaddress": "Indirizzo E-mail",
+  "age": "Età",
+  "password": "Password",
+  "confirmPassword": "Conferma Password",
+  "submit": "Invia",
+  "registration": "Registrazione Utente"
+}
