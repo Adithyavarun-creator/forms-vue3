@@ -16,7 +16,7 @@
         class="flex flex-col gap-4 justify-center items-center"
       >
         <div class="flex justify-center items-center">
-          <h1 class="text-2xl">{{ t("registration") }}</h1>
+          <h1 class="text-2xl font-bold">{{ t("registration") }}</h1>
         </div>
         <div class="flex flex-col gap-1 justify-center">
           <label for="">{{ t("username") }}</label>
